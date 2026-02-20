@@ -145,6 +145,7 @@ Vehicle 1 Port: 4 Start: 17 Duration: 4
 Vehicle 2 Port: 4 Start: 10 Duration: 4
 Vehicle 3 Port: 1 Start: 21 Duration: 5
 Vehicle 4 Port: 4 Start: 14 Duration: 2
+
 ✅ Why Output Is Correct
 
 The solution guarantees:
@@ -186,4 +187,4 @@ python genTestcases.py
 
 Step 2:
 
-python assg04.py
+python assg04.py 
